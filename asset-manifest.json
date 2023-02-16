@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hokura0802.github.io/csb-1fqzyr/static/css/main.530b601b.chunk.css",
+    "main.js": "https://hokura0802.github.io/csb-1fqzyr/static/js/main.a013c19a.chunk.js",
+    "main.js.map": "https://hokura0802.github.io/csb-1fqzyr/static/js/main.a013c19a.chunk.js.map",
+    "runtime-main.js": "https://hokura0802.github.io/csb-1fqzyr/static/js/runtime-main.2dc699b4.js",
+    "runtime-main.js.map": "https://hokura0802.github.io/csb-1fqzyr/static/js/runtime-main.2dc699b4.js.map",
+    "static/js/2.1752008e.chunk.js": "https://hokura0802.github.io/csb-1fqzyr/static/js/2.1752008e.chunk.js",
+    "static/js/2.1752008e.chunk.js.map": "https://hokura0802.github.io/csb-1fqzyr/static/js/2.1752008e.chunk.js.map",
+    "index.html": "https://hokura0802.github.io/csb-1fqzyr/index.html",
+    "static/css/main.530b601b.chunk.css.map": "https://hokura0802.github.io/csb-1fqzyr/static/css/main.530b601b.chunk.css.map",
+    "static/js/2.1752008e.chunk.js.LICENSE.txt": "https://hokura0802.github.io/csb-1fqzyr/static/js/2.1752008e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dc699b4.js",
+    "static/js/2.1752008e.chunk.js",
+    "static/css/main.530b601b.chunk.css",
+    "static/js/main.a013c19a.chunk.js"
+  ]
+}
